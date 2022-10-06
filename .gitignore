@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Weights & Biases
+/wandb
+
+# Dask
+dask-worker-space
